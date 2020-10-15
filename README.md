@@ -8,3 +8,7 @@ function latouch() {
     cp /Users/you/your/path/to/standard.tex ./$1.tex
 }
 ```
+Then to make a Latex document in your current folder in terminal, enter
+```terminal
+latouch documentname
+```
